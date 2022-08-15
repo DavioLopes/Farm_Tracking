@@ -1,4 +1,4 @@
-# Measure Shelter Project!
+# Farme Traking Project!
 
 Aplicação desenvolvida pela WiTrybe company, ultilizando inteligência atificial para automatizar o processo de plantação, realiza todo o monitorament das ilhas, através de medições e imagens.
 
@@ -20,9 +20,9 @@ Aplicação desenvolvida pela WiTrybe company, ultilizando inteligência atifici
 
 No seu terminal digite:
 ```
-git clone git@github.com:DavioLopes/measure-shelter.git
+git clone git@github.com:DavioLopes/Farm_Tracking.git
 
-cd measure-shelter
+cd Farm_Tracking
 ```
 
 ## Inicializando a aplicação
@@ -82,30 +82,3 @@ A aplicação contém os seguintes endpoints:
 | `POST - localhost:8888/imagens/{nome}` | Realiza o upload de uma nova imagem. |
 
 
-## Authors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rodolfomno/" target="_blank" rel="noopener noreferrer">
-        <sub>
-          <b>Rodolfo Marqeus</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://www.linkedin.com/in/lucas-m-toledo/" target="_blank" rel="noopener noreferrer">
-        <sub>
-          <b>Lucas Toledo</b>
-        </sub>
-      </a>
-    </td>
-        <td align="center">
-      <a href="https://www.linkedin.com/in/dávio-lopes-719b0b189/" target="_blank" rel="noopener noreferrer">
-        <sub>
-          <b>Davio Lopes</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
