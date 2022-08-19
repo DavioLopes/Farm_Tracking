@@ -1,4 +1,4 @@
-# Farme Tracking Project!
+# Farm Tracking Project!
 
 Aplicação desenvolvida pela WiTrybe company, ultilizando inteligência atificial para automatizar o processo de plantação, realiza todo o monitorament das ilhas, através de medições e imagens.
 
