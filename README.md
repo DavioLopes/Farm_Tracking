@@ -1,6 +1,6 @@
 # Farm Tracking Project!
 
-Aplicação desenvolvida pela WiTrybe company, ultilizando inteligência atificial para automatizar o processo de plantação, realiza todo o monitorament das ilhas, através de medições e imagens.
+Aplicação desenvolvida pela WiTrybe Compay, utilizando inteligência artificial para automatizar o processo de plantação, realiza todo o monitoramento das ilhas, através de medições e imagens.
 
 ## Tecnologias
 
